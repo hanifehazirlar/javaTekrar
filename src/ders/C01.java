@@ -20,8 +20,7 @@ public class C01 {
         int guncelSaat = LocalDateTime.now().getHour();
 
         int guncelDakika = LocalDateTime.now().getMinute();
-        //yorum
-
+        //yorum1
 
     }
 }
